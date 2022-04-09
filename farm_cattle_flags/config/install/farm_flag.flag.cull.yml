@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_cattle_flags
+id: cull
+label: Cull
+entity_types: null
+
+
+entity_types:
+  asset:
+    - animal

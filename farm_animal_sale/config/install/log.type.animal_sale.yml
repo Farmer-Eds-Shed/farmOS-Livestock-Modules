@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_animal_sale
+id: animal_sale
+label: Animal Sale
+description: ''
+name_pattern: 'Animal Sale log [log:id]'
+workflow: log_default
+new_revision: true

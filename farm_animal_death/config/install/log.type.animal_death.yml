@@ -1,0 +1,12 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_animal_death
+id: animal_death
+label: Animal Death
+description: ''
+name_pattern: 'Animal Death log [log:id]'
+workflow: log_default
+new_revision: true

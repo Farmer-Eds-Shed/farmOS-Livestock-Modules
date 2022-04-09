@@ -1,0 +1,6 @@
+name: Farm Cattle Flags
+description: Adds new custom cattle flag types.
+type: module
+package: farmOS Contrib
+core_version_requirement: ^9
+

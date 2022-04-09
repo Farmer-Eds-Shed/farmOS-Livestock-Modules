@@ -1,0 +1,7 @@
+name: Animal Sale log
+description: Adds an animal sale log type.
+type: module
+package: farmOS Contrib
+core_version_requirement: ^9
+dependencies:
+  - farm:farm_entity

@@ -1,0 +1,14 @@
+angcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_cattle_flags
+id: maiden
+label: Maiden
+entity_types: null
+
+
+entity_types:
+  asset:
+    - animal
