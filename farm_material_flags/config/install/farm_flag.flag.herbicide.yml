@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_material_flags
+id: herbicide
+label: Herbicide
+entity_types: null
+
+
+entity_types:
+  log:
+    - input

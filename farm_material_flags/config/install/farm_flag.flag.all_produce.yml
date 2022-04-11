@@ -1,0 +1,16 @@
+angcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_material_flags
+id: all_produce
+label: All Produce Withdrawl
+entity_types: null
+
+
+entity_types:
+  log:
+    - medical
+  Asset:
+    - animal

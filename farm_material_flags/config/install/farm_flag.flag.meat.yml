@@ -1,0 +1,16 @@
+angcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_material_flags
+id: meat
+label: Meat Withdrawl
+entity_types: null
+
+
+entity_types:
+  log:
+    - medical
+  Asset:
+    - animal
