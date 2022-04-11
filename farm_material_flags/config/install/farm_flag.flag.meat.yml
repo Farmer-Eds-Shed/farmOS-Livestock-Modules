@@ -12,5 +12,5 @@ entity_types: null
 entity_types:
   log:
     - medical
-  Asset:
+  asset:
     - animal
