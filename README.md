@@ -7,6 +7,7 @@ farm_reference_animal - adds reference animal assets for parents from other farm
 
 **Logs** <br />
 farm_animal_sale - adds animal sale logs <br />
+farm_animal_purchase - adds animal purchase logs <br />
 farm_animal_death - adds animal death logs  <br />
 
 **Flags** <br />
