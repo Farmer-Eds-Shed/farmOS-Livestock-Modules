@@ -30,7 +30,7 @@ class Animal_Purchase extends FarmLogType {
         'view' => 20,
       ],
     ];
-    $fields['purchase_source'] = $this->farmFieldFactory->bundleFieldDefinition($options);
+    $fields['purchase'] = $this->farmFieldFactory->bundleFieldDefinition($options);
 
     return $fields;
   }
